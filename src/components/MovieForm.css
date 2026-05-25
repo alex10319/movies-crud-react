@@ -1,0 +1,10 @@
+/* MINI EJERCICIO COMPLEMENTARIO:
+  Agregar un estilo básico para que el formulario se alinee en columna 
+  y el botón cambie de color (hover).
+*/
+.movie-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+}
