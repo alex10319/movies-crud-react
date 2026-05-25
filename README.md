@@ -12,7 +12,7 @@ Interfaz simplificada en React para evaluar candidatos a pasantes (paso de Train
 2. **Configurar el entorno:**
    Crear un archivo .env en la raíz de esta carpeta con la URL de la API:
    ```bash
-   VITE_API_URL=[http://127.0.0.1:8000/api/](http://127.0.0.1:8000/api/)
+   VITE_API_URL="http://127.0.0.1:8000/api/"
    ```
 
 3. **Correr el Servidor de Desarrollo:**
